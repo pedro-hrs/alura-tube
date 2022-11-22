@@ -1,0 +1,46 @@
+{
+  "name": "Pedro Rodrigues",
+  "job": "Front-end Developer",
+  "github": "pedro-hrs",
+  "playlists": {
+      "Comédia": [
+          {
+              "title": "CASIMIRO REAGE: DEFANTE E IGOR GUIMARÃES FAZEM PIZZA EMPANADA - RANGO BRABO | Cortes do Casimito",
+              "url": "https://www.youtube.com/watch?v=33URUC-iuf4",
+              "thumb": "https://img.youtube.com/vi/33URUC-iuf4/hqdefault.jpg"
+          },
+          {
+              "title": "CASIMIRO REAGE: DEFANTE E IGÃO FAZENDO HAMBÚRGUER - RANGO BRABO | Cortes do Casimito",
+              "url": "https://www.youtube.com/watch?v=pjOMDCptn5c",
+              "thumb": "https://img.youtube.com/vi/pjOMDCptn5c/hqdefault.jpg"
+          },
+          {
+              "title": "Resistente à erva ou aos reptilianos? | A Culpa É Do Cabral no Comedy Central",
+              "url": "https://www.youtube.com/watch?v=zJbU4E-ydAY",
+              "thumb": "https://img.youtube.com/vi/zJbU4E-ydAY/hqdefault.jpg"
+          },
+          {
+              "title": "CASIMIRO REAGE: DEFANTE E IGOR GUIMARÃES FAZEM PIZZA EMPANADA - RANGO BRABO | Cortes do Casimito",
+              "url": "https://www.youtube.com/watch?v=KSJxz8B6Slg",
+              "thumb": "https://img.youtube.com/vi/KSJxz8B6Slg/hqdefault.jpg"
+          },
+          {
+              "title": "Entrou uma farpa no cool do Rafael Portugal | A Culpa É Do Cabral no Comedy Central",
+              "url": "https://www.youtube.com/watch?v=dNcC1quO_jo",
+              "thumb": "https://img.youtube.com/vi/dNcC1quO_jo/hqdefault.jpg"
+          }
+      ],
+      "Ciência": [
+          {
+              "title": "Como CONTAR até o INFINITO",
+              "url": "https://www.youtube.com/watch?v=OqWsy2n-un0",
+              "thumb": "https://img.youtube.com/vi/OqWsy2n-un0/hqdefault.jpg"
+          },
+          {
+              "title": "E se cobríssemos o SAARA com PAINÉIS SOLARES?",
+              "url": "https://www.youtube.com/watch?v=VsOpMax0MFQ",
+              "thumb": "https://img.youtube.com/vi/VsOpMax0MFQ/hqdefault.jpg"
+          }
+      ]
+  }
+}
